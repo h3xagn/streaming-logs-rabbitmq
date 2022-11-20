@@ -2,7 +2,7 @@
 
 ## Overview
 
-More data stacks are shifting towards microservices and communication between them are essential as it sometimes need to communicate to more than one service. Message brokers play a critical part in this architecture by allowing services to communicate by routing messages and storing them. In this post we will be creating a simple python log viewer that consolidates errors across several apps and process error logs separately. The blog post with more detail is available here:
+More data stacks are shifting towards microservices and communication between them are essential as it sometimes need to communicate to more than one service. Message brokers play a critical part in this architecture by allowing services to communicate by routing messages and storing them. In this post we will be creating a real-time log viewer that consolidates errors across several apps and a python app to process error logs. The blog post with more detail is available here:
 
 - [Streaming logs using RabbitMQ](https://h3xagn.com/streaming-logs-using-rabbitmq/)
 
